@@ -126,3 +126,14 @@
 - [ ] ANOVA
 - [ ] A/B Testing
 
+### 🎯 Phase 2 Projects
+1. Implement Gradient Descent from Scratch
+2. Build a Matrix Operations Calculator
+3. Analyze Probability Distributions
+4. Perform Statistical Analysis on a Dataset
+
+**Milestone:** Understand how optimization, probability, and matrix operations are used to train ML models.
+
+
+
+
